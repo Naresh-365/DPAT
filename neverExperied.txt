@@ -1,0 +1,4 @@
+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
+https://github.com/Naresh-365/DPAT.git
+
+git remote add origin https://Naresh-365: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@github.com/Naresh-365/DPAT.git
